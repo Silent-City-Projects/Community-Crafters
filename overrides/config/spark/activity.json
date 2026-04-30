@@ -1,0 +1,15 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "synystergzv",
+      "uniqueId": "b1013f19-d632-4a6c-b510-fc84250d4ed0"
+    },
+    "time": 1777064539314,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/enBLKis51y"
+    }
+  }
+]
